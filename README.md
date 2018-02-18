@@ -1,4 +1,4 @@
 # music
 the begin
 
-!play
+!play<url>
